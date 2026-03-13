@@ -58,7 +58,4 @@ Data Science student interested in Cybersecurity and Machine Learning-based thre
 
 ## 📪 Contact
 - E-mail | yeseojasmin@gmail.com
-- Kakao  | @yespirea
 - Instagram | @yespirea
-
-&nbsp;
