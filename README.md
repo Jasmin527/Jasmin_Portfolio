@@ -47,6 +47,7 @@ Data Science student interested in Cybersecurity and Machine Learning-based thre
 
 ### 2026_semester
 - 공격자 행동 시퀀스 기반 인포스틸러 탐지 (-ing)
+- 실시간 노인 낙상 탐지 어플리케이션 개발: On-Safe (-ing)
 
 &nbsp;
 
@@ -55,6 +56,12 @@ Data Science student interested in Cybersecurity and Machine Learning-based thre
 - (2025.12.17) 실시간인공지능기반낙상감지및경고시스템 (SW 저작권 등록)
 - (2026.03.31) Decision Tree 기반 노인 낙상 단기 예측 변수 영향 분석 (지능정보연구)
 - (2026.08.31 개제 예정) 머신러닝 기반 산업제어시스템 보안 위협 탐지 및 구간 분석 (한국산업보안연구학회)
+
+## 🏆 Awards
+- (2024.06.27) 최우수상 (Best Oral Presentation Award), 한국감성과학회(KOSES) 하계학술대회
+  - 발표 주제 : Study on User Behavior Analysis Based on Online e-WOM Motivation: Map API-based Course Recommendation Platform for Generation MZ Focusing on 'Perfect Day'
+  - 특이 사항 : 영문 구두 발표(English Oral Presentation) 부문 1위 수상
+  - 관련 기사 : https://kidd.co.kr/news/237395
 
 &nbsp;
 
