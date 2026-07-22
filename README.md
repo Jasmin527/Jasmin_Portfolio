@@ -36,6 +36,7 @@ Data Science student interested in Cybersecurity and Machine Learning-based thre
 - 온라인 구전 동기와 소비자 행동 의도 간의 관계 분석 (소학회 WIDH)
 
 ### 2025_semester
+- sys_log 학습 분석 (서울여자대학교 도서관 층 별 WIFI / 사용자 / 모바일 기기 연결 수)
 - 악성 URL 분류 AI 경진대회
 - 사이버 공격 유형 예측 해커톤
 - 머신러닝 기반 영향 요인에 따른 배달시간 예측
@@ -46,16 +47,18 @@ Data Science student interested in Cybersecurity and Machine Learning-based thre
 - 실시간 노인 낙상 알림 시스템
 
 ### 2026_semester
-- 공격자 행동 시퀀스 기반 인포스틸러 탐지 (-ing)
+- 공격자 행동 시퀀스 기반 인포스틸러 탐지
 - 실시간 노인 낙상 탐지 어플리케이션 개발: On-Safe (-ing)
+- 홈페이지 공격 유형 분석
 
 &nbsp;
 
 ## 🛠️ Research / Publications
 - (2024.12.31) 온라인 구전 동기와 소비자 행동 의도 간의 관계 분석 연구: Z세대의 관점에서: 지도 API 기반 코스 추천 플랫폼 '완벽한 하루'를 중심으로 (산업혁신연구)
-- (2025.12.17) 실시간인공지능기반낙상감지및경고시스템 (SW 저작권 등록)
+- (2025.12.17) 실시간 인공지능기반 낙상감지 및 경고 시스템 (SW 저작권 등록)
 - (2026.03.31) Decision Tree 기반 노인 낙상 단기 예측 변수 영향 분석 (지능정보연구)
-- (2026.08.31 개제 예정) 머신러닝 기반 산업제어시스템 보안 위협 탐지 및 구간 분석 (한국산업보안연구학회)
+- (2026.07.22) 행별 API 시퀀스 분석 기반 웹형 1D-CNN 인포스틸러 실시간 탐지 아키텍처 (SW 저작권 심사 중)
+- (2026.08.31 개제 예정) LSTM 기반 ICS 보안 이상탐지 및 센서 반응 동적 분석 (정보처리학회)
 
 ## 🏆 Awards
 - (2024.06.27) 최우수상 (Best Oral Presentation Award), 한국감성과학회(KOSES) 하계학술대회
